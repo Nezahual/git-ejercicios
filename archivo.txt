@@ -1,5 +1,5 @@
 hola desde rama-conflicto
 hola desde rama-conflicto main
-main1
-main2
-main2
+con1
+con2
+con3
