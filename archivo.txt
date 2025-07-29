@@ -1,2 +1,5 @@
 hola desde rama-conflicto
 hola desde rama-conflicto main
+con1
+con2
+con3
