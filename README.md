@@ -1,5 +1,6 @@
 primer commit
 segundo commit
+segundo commit rama para rebase2
 tercer commit
 primer commit rama para merge
 segundo commit rama para merge
